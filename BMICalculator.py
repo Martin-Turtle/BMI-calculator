@@ -1,5 +1,6 @@
 # This is a sample Python script.
-
+print('BMI CALCULATOR')
+print('Please enter your weight and height')
 weight = int(input())
 height = float(input())
 BMI = weight / height ** 2
